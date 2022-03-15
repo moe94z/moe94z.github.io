@@ -505,9 +505,9 @@
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 375px) {
   .u-section-4 .u-line-1 {
-    width: 340px;
+    width: 240px;
   }
 
   .u-section-4 .u-text-1 {
