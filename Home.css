@@ -1,5 +1,5 @@
 .u-section-1 {
-  min-height: 700px;
+  min-height: 600px;
 }
 
 
@@ -323,7 +323,6 @@
   }
 }.u-section-3 {
   background-image: none;
-  min-height: 700;
 }
 
 .u-section-3 .u-sheet-1 {
@@ -432,7 +431,7 @@
     font-size: 4.5rem;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 300px;
+  min-height: 631px;
 }
 
 .u-section-4 .u-line-1 {
