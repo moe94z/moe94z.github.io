@@ -417,7 +417,7 @@
   }
 }
 
-@media (max-width: 575px) {
+@media (max-width: 300px) {
   .u-section-3 .u-sheet-1 {
     min-height: 669px;
   }
@@ -431,13 +431,13 @@
     font-size: 4.5rem;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 631px;
+  min-height: 200px;
 }
 
 .u-section-4 .u-line-1 {
   height: 6px;
   transform-origin: left center;
-  width: 600px;
+  width: 795px;
   margin: 60px auto 0;
 }
 
